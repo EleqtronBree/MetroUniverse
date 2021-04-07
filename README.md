@@ -1,5 +1,5 @@
 # MetroUniverse
-Project for Metro Universe designed on Roblox Studio
+Project for Metro Universe designed on Roblox Studio (Jun 2018)
 
 This project was created around June 2018.
 This was a train game that was meant to take passenger players to different worlds. The objective was to explore, find rewards and survive any disasters that hit the train. The project was almost finished when only the minigame code was needed to run the game but due to the lack of resources, the project could not continue and was instead showcased as an idle train game. 
